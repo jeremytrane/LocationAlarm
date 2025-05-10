@@ -16,10 +16,12 @@ Install Node.js, Watchman, JDK (if Android), and Android Studio/Xcode
 
 Create project:
 
-bash
-Copy
-Edit
-npx react-native init LocationAlarmApp
+1. Install Android Studio - Link: https://developer.android.com/studio
+2. Setup Android Studio on Pixel - Link: https://docs.expo.dev/workflow/android-studio-emulator/
+3. Start React app using npm start
+4. Press a after to launch android studio
+
+
 ✅ Firebase Setup
 Create Firebase project at console.firebase.google.com
 
