@@ -1,0 +1,9 @@
+React Native
+react-native-maps (for React Native)
+Geofencing/Location:React Native: @react-native-community/geolocation, react-native-background-geolocation
+
+Backend (Optional, only if you need storage, login, etc.)
+Firebase 
+
+Alarm Handling
+React Native: react-native-push-notification
